@@ -46,4 +46,4 @@ Nesse projeto, estou utilizando a análise exploratória de dados (EDA) em conju
 - Dataset Link: [Crime Data from 2020 to Present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
 
 ## Notebook 💻 
-- Notebook ->
+- Notebook -> [Crime](https://github.com/SamuelTelesSilva/crime/blob/eae082f8008e0572173aa83a139828d4a9f960b2/notebook_crime.ipynb) 
